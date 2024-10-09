@@ -12,4 +12,5 @@ A C program that uses linked lists to represent vectors and perform element-wise
 1. Compile: `gcc -o vector_multiplication vector_multiplication.c`
 2. Run: `./vector_multiplication`
 
-## Example
+## Example 
+Vector a: 2 -> 4 -> 6 -> NULL Vector b: 3 -> 5 -> NULL Result: 6 -> 20 -> 0 -> NULL
